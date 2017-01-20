@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EngineTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-01-20T22:58:14" hostname="COMPOZED-NBT-15" time="0.001">
+  <properties/>
+  <testcase name="engineComponents" classname="EngineTest" time="0.0"/>
+  <testcase name="fullDescription" classname="EngineTest" time="0.0"/>
+  <testcase name="engineComponent" classname="EngineTest" time="0.001"/>
+  <testcase name="coolingSystemComponent" classname="EngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
